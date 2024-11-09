@@ -1,0 +1,38 @@
+1.support geolocation in browser
+
+2.high accuracy
+
+3.no caching 
+
+4.timeout
+
+5.watch position continuously.
+
+6.map co-ordinate set(0,0)
+
+7.openstreetmap
+
+8.zoom level high
+
+9.create marker
+
+10.If a marker for the id exists, update its position, otherwise create a new marker at the given coordinates and add it to the map. When a user disconnects,remove the marker and delete it from markers.
+
+
+
+//notes taken while coding
+//npm init---downloads the package.json
+//change test>>start to start:"nodemon index.js"
+//create a file by "index.js"
+
+//npm i express ejs nodemon---downloads all dependencies and stuff
+//npm i socket.io
+
+//go to leaflet.js to bring the map lookalike feel
+//go to socket.io
+
+//MAIN WORK begins:---
+
+
+//if anytime location malfunctions...use chrome>>settings>>location>>on and off
+or...windows>>start>>settings>>location services>> on & off
